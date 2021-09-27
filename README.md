@@ -3,7 +3,7 @@ A blog Application made using react + typescript which renders a blog page where
 
 ## Link
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dac9aeee-0ec4-4d9d-bfb4-951b2f29cd82/deploy-status)](https://app.netlify.com/sites/relaxed-chandrasekhar-22170d/deploys)
+[Netlify](https://relaxed-chandrasekhar-22170d.netlify.app/)
 
 
 
