@@ -1,6 +1,33 @@
+# Blog Application using  CMS Backend
+A blog Application made using react + typescript which renders a blog page where data is fetched from contentstack cms.
+
+## Link
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dac9aeee-0ec4-4d9d-bfb4-951b2f29cd82/deploy-status)](https://app.netlify.com/sites/relaxed-chandrasekhar-22170d/deploys)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Downloading and Running this Project Locally
+
+1. clone the repository
+```
+git clone https://github.com/pawan43563/Blog-React.git
+```
+
+2. change directory to `cd Blog-contentstack`
+
+3. run command `npm install` to install all dependencies
+
+4. create a .env file in inside root of your directory and add contentstack credentials
+```
+REACT_APP_API_KEY= < your stack api key >
+REACT_APP_DELIVERY_TOKEN= < your delivery token >
+REACT_APP_ENVIRONMENT_NAME= < your environment name >
+```
 
 ## Available Scripts
 
@@ -44,4 +71,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# Blog-cms
+
